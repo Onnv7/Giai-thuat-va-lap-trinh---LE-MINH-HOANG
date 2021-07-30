@@ -1,0 +1,12 @@
+============================ SORTING ============================
+I - SELECTION SORT
+_ Độ phức tạp: O(n²)
+
+II - INSERTION SORT
+_ Độ phức tạp: 
+   + TH tốt nhất: O(n)
+   + TH tệ nhất: O(n²)
+  => TH trung bình: O(n²).
+
+III - BUBBLE SORT
+_Độ phức tạp: bất kể tình trạng dữ liệu vào, độ phức tạp đều là O(n²)

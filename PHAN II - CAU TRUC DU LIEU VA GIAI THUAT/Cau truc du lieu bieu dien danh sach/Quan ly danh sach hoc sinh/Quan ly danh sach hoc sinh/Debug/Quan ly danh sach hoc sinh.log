@@ -1,0 +1,4 @@
+﻿  Quan ly danh sach hoc sinh.cpp
+D:\An tu hoc cntt\An hoc Cpp\Giai thuat va lap trinh\PHAN II - CAU TRUC DU LIEU VA GIAI THUAT\Cau truc du lieu bieu dien danh sach\Quan ly danh sach hoc sinh\Quan ly danh sach hoc sinh\Quan ly danh sach hoc sinh.cpp(306,16): warning C4018: '<': signed/unsigned mismatch
+D:\An tu hoc cntt\An hoc Cpp\Giai thuat va lap trinh\PHAN II - CAU TRUC DU LIEU VA GIAI THUAT\Cau truc du lieu bieu dien danh sach\Quan ly danh sach hoc sinh\Quan ly danh sach hoc sinh\Quan ly danh sach hoc sinh.cpp(334): warning C4715: 'TimKiemTenvaLop': not all control paths return a value
+  Quan ly danh sach hoc sinh.vcxproj -> D:\An tu hoc cntt\An hoc Cpp\Giai thuat va lap trinh\PHAN II - CAU TRUC DU LIEU VA GIAI THUAT\Cau truc du lieu bieu dien danh sach\Quan ly danh sach hoc sinh\Debug\Quan ly danh sach hoc sinh.exe
